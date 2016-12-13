@@ -1,0 +1,13 @@
+F:\TANGMANGER\projects\test06\DataGridForEntity\bin\Debug\DataGridForEntity.dll
+F:\TANGMANGER\projects\test06\DataGridForEntity\bin\Debug\DataGridForEntity.pdb
+F:\TANGMANGER\projects\test06\test06\bin\Debug\DataGridForEntity.dll
+F:\TANGMANGER\projects\test06\test06\bin\Debug\DataGridForEntity.pdb
+F:\TANGMANGER\HttpMethod\HttpMethod\MyJw\Debug\DataGridForEntity.dll
+F:\TANGMANGER\HttpMethod\HttpMethod\MyJw\Debug\DataGridForEntity.pdb
+F:\TANGMANGER\projects\test06\DataGridForEntity\obj\Debug\PersonalDataGrid.baml
+F:\TANGMANGER\projects\test06\DataGridForEntity\obj\Debug\PersonalDataGrid.g.cs
+F:\TANGMANGER\projects\test06\DataGridForEntity\obj\Debug\DataGridForEntity_MarkupCompile.cache
+F:\TANGMANGER\projects\test06\DataGridForEntity\obj\Debug\DataGridForEntity.g.resources
+F:\TANGMANGER\projects\test06\DataGridForEntity\obj\Debug\DataGridForEntity.dll
+F:\TANGMANGER\projects\test06\DataGridForEntity\obj\Debug\DataGridForEntity.pdb
+F:\TANGMANGER\projects\test06\DataGridForEntity\obj\Debug\DataGridForEntity.csprojResolveAssemblyReference.cache
